@@ -1,6 +1,6 @@
 lm35-Mobile
 ===========
-A sample solution lm35 html5 mobile app developed with Intel IoT XDK Edition for CPT211 (Programming Languages Concepts and Paradigms) 2015. 
+A sample IoT implementation of lm35(Analog Temperature Sensor) with Intel Galileo Gen 1, developed with Intel IoT XDK Edition for CPT211 (Programming Languages Concepts and Paradigms) 2015. 
 
 Tools
 -----
